@@ -4,3 +4,4 @@ build_gen/
 *.elf
 *.sav
 *.map
+__pycache__/
